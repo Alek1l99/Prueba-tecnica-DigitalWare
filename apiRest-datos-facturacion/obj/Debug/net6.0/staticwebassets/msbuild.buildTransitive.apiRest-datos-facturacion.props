@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\apiRest-datos-facturacion.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wbnpY06oOM8TRos0rckGa2nPWqn6yU9bcBFSD9PwLcY=",
+  "Source": "apiRest-datos-facturacion",
+  "BasePath": "_content/apiRest-datos-facturacion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
